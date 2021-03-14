@@ -1,1 +1,1 @@
-# simple-server
+# Simple file uploader
