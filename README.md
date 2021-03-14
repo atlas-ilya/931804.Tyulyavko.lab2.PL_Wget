@@ -1,1 +1,1 @@
-# 931804.Tyulyavko.lab2.PL_Wget
+# simple-server
